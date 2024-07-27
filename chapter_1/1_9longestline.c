@@ -55,3 +55,10 @@ because you need their memory address.
 when you pass a an array however, you are passing a pointer to the 
 array (or the address of the array) so you can change array elements
 */
+
+/*
+strings in c
+"hello\n"
+is represented as
+h | e | l | l | o | \n | \0 | in memory
+*/
